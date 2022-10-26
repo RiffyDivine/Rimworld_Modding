@@ -1,2 +1,2 @@
-# Rimworld_Modding
+# Rimworld Modding
 This is my Rimworld Modding Repository
